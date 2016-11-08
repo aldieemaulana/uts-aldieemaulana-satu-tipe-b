@@ -1,3 +1,9 @@
+Program tipe soal B,
+
+![ScreenShot](http://artonano.com/img/emails/tugasaldi/ss-1.png)
+
+![ScreenShot](http://artonano.com/img/emails/tugasaldi/ss-5.png)
+
 Berikut ini kode programnya,
 
 ```
